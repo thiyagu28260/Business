@@ -38,6 +38,8 @@ h2, p { color: #666666; }
     padding: 40px;
 }
 
+img.rright { transform: rotate(90deg) }
+
 .tm-logo-container {
     display: block;
     padding: 30px;
